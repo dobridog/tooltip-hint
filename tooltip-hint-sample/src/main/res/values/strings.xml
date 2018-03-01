@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tooltip</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="terms_conditions">Lorem ipsum dolor sit amet, eum ei tantas fabulas periculis.</string>
+    <string name="tooltip_menu_item">Reveal Hint</string>
+    <!--Tooltips-->
+    <string name="tooltip_email">Ea mei meliore interpretaris, cu agam decore mea</string>
+    <string name="tooltip_password">Ad dicat error salutatus vis, id nostro maiorum minimum mel</string>
+    <string name="tooltip_terms">Est falli maiorum ea. Est regione definitiones at, usu ullum albucius nominavi ei, mea no perpetua ullamcorper</string>
+</resources>

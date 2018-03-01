@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TooltipHint" parent="_TooltipHint">
+        <item name="tooltipAnchor">left</item>
+        <item name="android:drawable">@drawable/ic_my_tooltip</item>
+        <item name="android:drawablePadding">@dimen/my_tooltip_hint_padding</item>
+    </style>
+</resources>

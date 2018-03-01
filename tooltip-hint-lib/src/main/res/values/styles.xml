@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="_TooltipHint" parent="TextAppearance.AppCompat">
+        <item name="tooltipAnchor">right</item>
+        <item name="android:drawable">@drawable/ic_tooltip_hint</item>
+        <item name="android:drawablePadding">@dimen/tooltip_hint_padding</item>
+    </style>
+
+    <style name="TooltipHint" parent="_TooltipHint">
+        <!--customizable-->
+    </style>
+</resources>
